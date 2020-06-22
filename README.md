@@ -1,2 +1,3 @@
-# idk-how-to-git
- 
+# Link shorter
+# MERN stack
+# First project ever
