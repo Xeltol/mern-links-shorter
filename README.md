@@ -1,3 +1,1 @@
-# Link shorter
-# MERN stack
-# First project ever
+# Link shorter pet project
